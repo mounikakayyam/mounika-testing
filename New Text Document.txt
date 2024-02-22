@@ -1,0 +1,10 @@
+git init 
+git status
+touch file name
+git status
+git add file name(. (or)*)
+git status
+git commit-m "any thing"
+git log --oneline(to check the commited ids)
+git remote add origin sshcode 
+git push origin master
